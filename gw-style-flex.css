@@ -1,0 +1,131 @@
+
+    body, td { font-size: 88%;
+        font-family: Verdana, Arial, Helvetica, sans-serif; }
+        div.menu { 
+          margin-left:1%;
+          }
+          .menu {
+          display:inline-block;
+          width: 250px;
+          background-color:#eee; 
+          margin-top: 0% auto 1% auto;
+          vertical-align: top;
+          float:left;
+          
+          }
+        .menu ul{
+          list-style-type: none;  
+          margin-left:0%;
+          padding-left:20%;
+          
+        }
+        .pic{
+          width: 60%;
+          padding-left: 20%;
+          padding-bottom:5%;
+          display:inline-block;
+          }
+        
+        .content{
+            margin-left:2%;
+        }
+        .right{
+            display:flex;
+            padding-left:2%;
+        }
+          .contentpapers{
+          margin-left:2%;
+          
+          }
+          .rightpapers{
+          display:flex;
+          padding-left:2%;
+          /*width:100%;*/
+          max-width:1200px;
+          }
+          .rightpapers br{
+            line-height:80%;
+          }
+          .rightpapers ul{
+            margin-top:0;
+          }
+          .gw{
+            display:inline-block;
+            margin-left:1.6%;
+            text-align:left;
+          }
+          h1{
+            font-size:120%;
+            }
+         h2{
+             font-size:110%;
+         }
+          .gwsub{
+            display:flex;
+            margin-left:2%;
+            text-align:left;
+          }
+          p{
+            padding-left:2%; 
+            font-family:verdana, arial, helvetica, sans-serif; 
+            margin-top:0;
+          }
+        .crelle{
+            display:inline-block;
+            font-family:verdana, arial, helvetica, sans-serif; 
+            padding-top:0;
+            padding-left:0;
+            
+          }
+        .crelle span{
+            font-family:verdana, arial, helvetica, sans-serif; 
+            font-style: italic;
+          }
+          .right br{
+            line-height:80%;
+            
+            }
+          div.menu a { 
+          font-size:110%;
+          line-height:200%; 
+          text-decoration:none; 
+          font-weight:600; 
+          font-family:verdana, arial, helvetica, sans-serif; 
+          }
+          div.menu a:link {
+          color:#f50;
+          }
+          div.menu a:visited {
+          color:#c20;
+          }
+          div.menu a:hover {
+          background-color:#fff;
+          }
+          a { 
+          text-decoration:none; 
+          font-weight:600; 
+          font-family:verdana, arial, helvetica, sans-serif; 
+          }
+          a:link {
+          color:#f50;
+          }
+          a:visited {
+          color:#c20;
+          }
+          a:hover {
+          background-color:#eee;
+          }
+          table{
+              display:flex;
+              margin-left:2%;
+              padding-left:2%;
+          }
+          .news{
+          display:block;
+          float:left;
+          padding: 0 2% 0 2%;
+          }
+          .news br{
+          line-height:80%;
+          }
+    
